@@ -1,0 +1,38 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  libpeconvW.cpp
+  buffer_util.cpp
+  caves.cpp
+  delayed_imports_loader.cpp
+  exported_func.cpp
+  exports_lookup.cpp
+  exports_mapper.cpp
+  file_util.cpp
+  find_base.cpp
+  fix_dot_net_ep.cpp
+  fix_imports.cpp
+  function_resolver.cpp
+  hooks.cpp
+  imports_loader.cpp
+  imports_uneraser.cpp
+  load_config_util.cpp
+  peb_lookup.cpp
+  pe_dumper.cpp
+  pe_hdrs_helper.cpp
+  正在生成代码...
+D:\Codes\C++\shellcodeloader2\libpeconvW\src\peb_lookup.cpp(46): warning C4793: “get_peb”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+  正在编译...
+  pe_loader.cpp
+  pe_mode_detector.cpp
+  pe_raw_to_virtual.cpp
+  pe_virtual_to_raw.cpp
+  relocate.cpp
+  remote_pe_reader.cpp
+  resource_parser.cpp
+  resource_util.cpp
+  util.cpp
+  .NETFramework,Version=v4.6.2.AssemblyAttributes.cpp
+  正在生成代码...
+  AssemblyInfo.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  libpeconvW.vcxproj -> D:\Codes\C++\shellcodeloader2\Release\libpeconvW.dll
